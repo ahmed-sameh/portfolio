@@ -675,9 +675,13 @@ nav ul li a:hover:before
 
 }
 
+#pagePreview .navigation .action-btns {
+  margin-top: 6px;
+}
+
 #pagePreview .navigation a
 {
-  background-color: hsl(227.3684210526deg, 12.2580645161%, 30.3921568627%);
+  background-color: rgba(5, 122, 218, 0.9);
   padding: 5px 10px;
   color: #FFF;
   text-transform: capitalize;
@@ -688,7 +692,7 @@ nav ul li a:hover:before
 
 #pagePreview .navigation a:hover
 {
-  background-color: #5a5f73;
+  background-color: rgba(17, 111, 188, 0.9);
 }
 
 #pagePreview #close-button
