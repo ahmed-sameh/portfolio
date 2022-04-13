@@ -688,6 +688,7 @@ nav ul li a:hover:before
   font-size: 14px;
   border-radius: 6px;
   transition: var(--main-transition);
+  font-weight: bold;
 }
 
 #pagePreview .navigation a:hover
