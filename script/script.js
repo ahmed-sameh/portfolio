@@ -1,5 +1,12 @@
 let projectsList = [
   {
+    projectName: 'UNIVERSE IPTV',
+    projectUrl:'http://universe-player.com/',
+    projectGithub:'https://github.com/ahmed-sameh/ng-iptv-player',
+    projectImage: './images/universe-iptv-poster.png',
+    projectView: './images/universe-iptv-preview.png'
+  },
+  {
     projectName: 'Elzero Template',
     projectUrl:'https://ahmed-sameh.github.io/elzero-temp/',
     projectGithub:'https://github.com/ahmed-sameh/elzero-temp',
