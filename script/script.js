@@ -7,11 +7,18 @@ let projectsList = [
     projectView: './images/universe-iptv-preview.png'
   },
   {
-    projectName: 'Elzero Template',
-    projectUrl:'https://ahmed-sameh.github.io/elzero-temp/',
-    projectGithub:'https://github.com/ahmed-sameh/elzero-temp',
-    projectImage: './images/elzero-poster.png',
-    projectView: './images/elzero-page-preview.png'
+    projectName: 'Dashboard',
+    projectUrl:'http://player-db.vipwatching.live/#/auth',
+    projectGithub:'https://github.com/ahmed-sameh/ng-player-dashboard',
+    projectImage: './images/dashboard-poster.png',
+    projectView: './images/dashboard-preview.png'
+  },
+  {
+    projectName: 'Mergy Waiting List',
+    projectUrl:'https://mergy.cloud/',
+    projectGithub:'https://github.com/ahmed-sameh/mergy-waitlist',
+    projectImage: './images/mergy-poster.png',
+    projectView: './images/mergy-preview.png'
   },
   {
     projectName: 'Recipes Book',
